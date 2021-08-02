@@ -13,6 +13,12 @@ The Web interface can be run on any server running Python. The agent can be comp
 
 ## Setup
 
+In case you forgot:
+
+```
+https://github.com/Wyattagum/Ares
+```
+
 Install the Python requirements:
 
 ```
