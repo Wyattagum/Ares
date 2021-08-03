@@ -20,6 +20,7 @@ git clone https://github.com/Yattagu/Ares
 ```
 https://www.how2shout.com/linux/how-to-install-python-2-7-on-ubuntu-20-04-lts/
 https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
+https://www.gungorbudak.com/blog/2018/08/02/correct-installation-and-configuration-of-pip2-and-pip3/
 
 Install the Python requirements:
 
