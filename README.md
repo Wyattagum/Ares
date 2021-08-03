@@ -18,6 +18,7 @@ In case you forgot:
 ```
 git clone https://github.com/Yattagu/Ares
 ```
+https://linuxize.com/post/how-to-install-pip-on-ubuntu-18.04/
 
 Install the Python requirements:
 
